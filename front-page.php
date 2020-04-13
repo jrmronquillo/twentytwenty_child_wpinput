@@ -17,9 +17,9 @@ get_header()
 </main>
 
 
-<script src="/wp-content/themes/wpdb_test_childtheme/static/js/2.c5b53c26.chunk.js"></script>
-<script src="/wp-content/themes/wpdb_test_childtheme/static/js/main.86d275c7.chunk.js"></script>
-<script src="/wp-content/themes/wpdb_test_childtheme/static/js/runtime-main.549be430.js"></script>
+<script src="/wp-content/themes/twentytwenty_child_wpinput/static/js/2.c5b53c26.chunk.js"></script>
+<script src="/wp-content/themes/twentytwenty_child_wpinput/static/js/main.86d275c7.chunk.js"></script>
+<script src="/wp-content/themes/twentytwenty_child_wpinput/static/js/runtime-main.549be430.js"></script>
 
 
 <?php
