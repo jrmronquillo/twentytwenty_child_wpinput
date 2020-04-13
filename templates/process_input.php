@@ -1,6 +1,6 @@
 <?php
 /**
- * Template Name: test input template
+ * Template Name: process input template
  * Template Post Type: post, page
  *
  * @package WordPress
@@ -42,7 +42,7 @@ $wpdb->insert(
 
 <div>
 	<span> Input submission</span>
-	<form action='/testing-input' method="post">
+	<form action='/process-input' method="post">
 		<input type="text" id="idea_var" name="idea_var"><br><br>
 		<input type="text" id="destination_title" name="destination_title"><br><br>
 		<input type="submit" value="Submit">
