@@ -18,7 +18,7 @@ get_header()
 
 
 <script src="/wp-content/themes/twentytwenty_child_wpinput/static/js/2.c5b53c26.chunk.js"></script>
-<script src="/wp-content/themes/twentytwenty_child_wpinput/static/js/main.c1c10798.chunk.js"></script>
+<script src="/wp-content/themes/twentytwenty_child_wpinput/static/js/main.5a3946a9.chunk.js"></script>
 <script src="/wp-content/themes/twentytwenty_child_wpinput/static/js/runtime-main.549be430.js"></script>
 
 

@@ -12,7 +12,7 @@ function enqueue_styles() {
 
 	wp_enqueue_style('font-awesome', 'https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 	// enqueue child styles
-	wp_enqueue_style('react-styles', get_stylesheet_directory_uri() . '/static/css/main.f0a78df4.chunk.css');
+	wp_enqueue_style('react-styles', get_stylesheet_directory_uri() . '/static/css/main.03800bd4.chunk.css');
 	
 }
 add_action('wp_enqueue_scripts', 'enqueue_styles');
